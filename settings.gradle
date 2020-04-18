@@ -1,0 +1,3 @@
+include ':app'
+include ':app:libs'
+rootProject.name='VideoPlayerApp'
